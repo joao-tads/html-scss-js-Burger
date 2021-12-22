@@ -1,0 +1,27 @@
+/* ========== IMPORTS ========== */
+@import url("https://fonts.googleapis.com/css2?family=Raleway:wght@100;300;400;500;600&display=swap");
+/* ========== RESET ========== */
+* {
+  font-family: "Raleway", sans-serif;
+  margin: 0;
+  padding: 0;
+  text-decoration: none;
+  outline: none;
+  border: none;
+  text-transform: capitalize;
+  box-sizing: border-box;
+  transition: all 0.3s linear;
+}
+
+/* ========== VARIABLES ========== */
+/* ----- COLORS ----- */
+/* ----- BORDER ----- */
+/* ========== BASE ========== */
+html {
+  font-size: 62.5%;
+}
+
+/* ========== HEADER ========== */
+/* ========== RESPONSIVE ========== */
+
+/*# sourceMappingURL=style.css.map */
